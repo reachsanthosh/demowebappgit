@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div> This is sample demo application to push through GIT to Azure
+        <div> This is sample demo application to push through GIT to Azure - part1
         </div>
     </form>
 </body>
